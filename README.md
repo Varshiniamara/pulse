@@ -2,8 +2,6 @@
 
 Pulse is a state-of-the-art, high-performance messaging platform built on the **MERN stack**, designed for seamless real-time communication with a premium aesthetic.
 
-![Pulse Dashboard](https://raw.githubusercontent.com/Varshiniamara/pulse/main/message/public/logo192.png) *(Note: Add actual screenshot link here later)*
-
 ## ✨ Key Features
 
 - **Real-Time Messaging**: Instant delivery using Socket.io with 1-to-1 and Group Chat support.
