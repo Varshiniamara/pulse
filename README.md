@@ -77,9 +77,3 @@ npm run dev -- --port 5100
 - **Access Control**: Middleware ensures that users can only access messages and profiles they are authorized for.
 - **Data Integrity**: Strict Mongoose schemas prevent invalid data injection.
 
-## 📄 License
-This project is for educational and portfolio purposes.
-
----
-
-*Developed with ❤️ by Varshini Amara*
